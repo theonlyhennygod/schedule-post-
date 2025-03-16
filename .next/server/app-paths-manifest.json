@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/parent/page": "app/parent/page.js",
+  "/caregiver/page": "app/caregiver/page.js",
+  "/parent/children/page": "app/parent/children/page.js",
+  "/parent/calendar/page": "app/parent/calendar/page.js",
+  "/parent/chat/page": "app/parent/chat/page.js"
+}
